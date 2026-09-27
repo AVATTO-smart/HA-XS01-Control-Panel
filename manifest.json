@@ -1,12 +1,12 @@
 {
   "name": "HA-XS01 Control Panel",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "builds": [
     {
       "chipFamily": "ESP32-P4",
       "ota": {
-        "path": "https://github.com/AVATTO-smart/HA-XS01-Control-Panel/releases/download/v0.1.6/firmware.bin",
-        "md5": "b405f0d77b9e9adfe1009955f830f7b9"
+        "path": "https://github.com/AVATTO-smart/HA-XS01-Control-Panel/releases/download/v0.1.7/firmware.bin",
+        "md5": "800849849632e43d5bebae08e8ec2dae"
       }
     }
   ]
